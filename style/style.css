@@ -118,10 +118,10 @@ body {
 
 @media (max-width:1200px) {
     :root{
-    --cor-principal: #765827;
-    --cor-secundaria: #EAC696;
-    --cor-terciaria: #C8AE7D;
-    --cor-quartenaria: #65451F;
+    --cor-principal: #96B6C5;
+    --cor-secundaria: #F1F0E8;
+    --cor-terciaria: #ADC4CE;
+    --cor-quartenaria: #272727;
 
     .cabecalho{
         padding: 10%;
